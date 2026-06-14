@@ -6,17 +6,17 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 ## Current work
 
-- [`answer-engine`](https://github.com/lukefwalton/answer-engine) — an LLM-backed answer engine that cites its sources or declines plainly. [DOI](https://doi.org/10.5281/zenodo.20676773)
-- [`lukefwalton.com-archive`](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, music catalog, and public web corpus. [DOI](https://doi.org/10.5281/zenodo.20683155)
+- [answer-engine](https://github.com/lukefwalton/answer-engine) — an LLM-backed answer engine that cites its sources or declines plainly. [DOI](https://doi.org/10.5281/zenodo.20676773)
+- [lukefwalton.com-archive](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, music catalog, and public web corpus. [DOI](https://doi.org/10.5281/zenodo.20683155)
 
 ## Research
 
-### Answerability Quartet: four papers on who answers when an AI acts.
+### [Answerability Quartet](https://lukefwalton.com/research/): four papers on who answers when an AI acts.
 
-- “The Decision No One Authored: The Answerability Gap in Generative AI” - preprint: [DOI](https://doi.org/10.5281/zenodo.20622946)
-- “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” - preprint: [DOI](https://doi.org/10.5281/zenodo.20676328)
-- “The Invariant of Answerability” - working paper: [DOI](https://doi.org/10.5281/zenodo.20606493)
-- “Building Answerable AI” - working paper: [DOI](https://doi.org/10.5281/zenodo.20682307)
+- “The Decision No One Authored: The Answerability Gap in Generative AI” — preprint: [DOI](https://doi.org/10.5281/zenodo.20622946)
+- “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” — preprint: [DOI](https://doi.org/10.5281/zenodo.20676328)
+- “The Invariant of Answerability” — working paper: [DOI](https://doi.org/10.5281/zenodo.20606493)
+- “Building Answerable AI” — working paper: [DOI](https://doi.org/10.5281/zenodo.20682307)
 
 ## Elsewhere
 

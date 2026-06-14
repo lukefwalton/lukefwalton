@@ -11,6 +11,8 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 ## Research
 
+### Answerability Quartet: four papers on who answers when an AI acts.
+
 - “The Decision No One Authored: The Answerability Gap in Generative AI” — [DOI](https://doi.org/10.5281/zenodo.20622946)
 - “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” — [DOI](https://doi.org/10.5281/zenodo.20676328)
 - “The Invariant of Answerability” — [DOI](https://doi.org/10.5281/zenodo.20606493)
@@ -19,3 +21,5 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 ## Elsewhere
 
 [Papers](https://lukefwalton.com/research/) · [Writing](https://lukefwalton.com/writing/) · [Music](https://lukefwalton.com/music/) · [Rendered archive](https://lukefwalton.github.io/lukefwalton.com-archive/) · [PhilPeople](https://philpeople.org/profiles/luke-f-walton) · [ORCID](https://orcid.org/0009-0005-9263-1954)
+
+Profile photo taken at the end of the Golden Trail, after summiting Mount Kurodake in [Daisetsuzan National Park](https://en.wikipedia.org/wiki/Daisetsuzan_National_Park).

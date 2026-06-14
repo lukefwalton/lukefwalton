@@ -13,10 +13,10 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 ### Answerability Quartet: four papers on who answers when an AI acts.
 
-- “The Decision No One Authored: The Answerability Gap in Generative AI” — [DOI](https://doi.org/10.5281/zenodo.20622946)
-- “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” — [DOI](https://doi.org/10.5281/zenodo.20676328)
-- “The Invariant of Answerability” — [DOI](https://doi.org/10.5281/zenodo.20606493)
-- “Building Answerable AI” — [DOI](https://doi.org/10.5281/zenodo.20682307)
+- “The Decision No One Authored: The Answerability Gap in Generative AI” - preprint: [DOI](https://doi.org/10.5281/zenodo.20622946)
+- “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” - preprint: [DOI](https://doi.org/10.5281/zenodo.20676328)
+- “The Invariant of Answerability” - working paper: [DOI](https://doi.org/10.5281/zenodo.20606493)
+- “Building Answerable AI” - working paper: [DOI](https://doi.org/10.5281/zenodo.20682307)
 
 ## Elsewhere
 

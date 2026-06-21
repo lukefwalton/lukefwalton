@@ -1,10 +1,8 @@
 # Luke F. Walton
 
-I love making things! Music, code, writing. All so fun.
+Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lukefwalton.com/research/) focused on answerability. Musician as [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/) and of [FEiN](https://lukefwalton.com/music/fein/).
 
-Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lukefwalton.com/research/). Musician as [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/) and of [FEiN](https://lukefwalton.com/music/fein/).
-
-My public repos are working projects and a teaching artifacts. (That's why my comments are so long!)
+My public repos are working projects and teaching artifacts:
 
 ## Current work
 

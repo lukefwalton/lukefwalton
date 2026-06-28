@@ -9,7 +9,8 @@ My public repos are working projects and teaching artifacts:
 - [answer-engine](https://github.com/lukefwalton/answer-engine) — an LLM-backed answer engine that cites its sources or declines plainly. Apache 2.0. [DOI](https://doi.org/10.5281/zenodo.20676773)
 - [lukefwalton.com-archive](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, music catalog, and public web corpus. [DOI](https://doi.org/10.5281/zenodo.20683155)
 - [workout-logger](https://github.com/lukefwalton/workout-logger) — Private Workout Logger, an on-device iOS workout tracker with no account, no cloud, and no subscription. Source published for audit.
-- [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT - steal it, use it, make it better. 
+- [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT - steal it, use it, make it better. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267
+Stop Political Spam Texts)
 
 ## Research
 

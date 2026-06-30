@@ -2,7 +2,7 @@
 
 Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lukefwalton.com/research/) focused on answerability. 
 
-Musician as [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/) and of [FEiN](https://lukefwalton.com/music/fein/). Podcaster at [Love Music Move](https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h?si=21883383caec42a6).
+Musician as [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/) and of [FEiN](https://lukefwalton.com/music/fein/). Podcaster at [Love Music More](https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h?si=21883383caec42a6).
 
 ## Current work
 

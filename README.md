@@ -4,15 +4,11 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 **In order:** music ([The Luke Walton Band](https://en.wikipedia.org/wiki/The_Luke_Walton_Band), [FEiN](https://lukefwalton.com/music/fein/), [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/)) → music industry ([NAMM](https://lukefwalton.com/music/#music-industry), 2018–2024) → tech ([Surmado](https://www.surmado.com), [answer engine](https://github.com/lukefwalton/answer-engine)). Common thread the whole way: music and small business. [More →](https://lukefwalton.com/about/)
 
-My public repos are working projects and teaching artifacts:
-
 ## Current work
 
-### Teaching Repos and Archival Work
+### Teaching Repo
 
 - [answer-engine](https://github.com/lukefwalton/answer-engine) — an LLM-backed answer engine that cites its sources or declines plainly. Apache 2.0. [DOI](https://doi.org/10.5281/zenodo.20676773)
-
-- [lukefwalton.com-archive](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, and music catalog. [DOI](https://doi.org/10.5281/zenodo.20683155)
 
 ### Privacy-First iOS Apps
 
@@ -21,6 +17,10 @@ My public repos are working projects and teaching artifacts:
 - [workout-logger](https://github.com/lukefwalton/workout-logger) — an on-device iOS workout tracker using a local LLM. Source published for audit. [App Store](https://apps.apple.com/us/app/private-workout-logger/id6782669888)
 
 - [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267)
+
+### Archival Work
+
+- [lukefwalton.com-archive](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, and music catalog. [DOI](https://doi.org/10.5281/zenodo.20683155)
 
 ## Research
 

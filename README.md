@@ -12,7 +12,7 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 ### Privacy-First iOS Apps
 
-- [a-new-word-every-day](https://github.com/lukefwalton/a-new-word-every-day) - learning new words should be free, beautiful, and private. My wife asked for this. MIT.
+- [a-new-word-every-day](https://github.com/lukefwalton/a-new-word-every-day) - learning new words should be free, beautiful, and private. MIT.
 
 - [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267)
 

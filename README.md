@@ -16,7 +16,7 @@ My public repos are working projects and teaching artifacts:
 
 - [workout-logger](https://github.com/lukefwalton/workout-logger) — Private Workout Logger, an on-device iOS workout tracker with no account, no cloud, and no subscription. Source published for audit. [App Store](https://apps.apple.com/us/app/private-workout-logger/id6782669888)
 
-- [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT - steal it, use it, make it better. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267)
+- [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267)
 
 ## Research
 

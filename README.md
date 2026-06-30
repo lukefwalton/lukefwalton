@@ -2,7 +2,7 @@
 
 Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lukefwalton.com/research/) focused on answerability. Musician as [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/) and of [FEiN](https://lukefwalton.com/music/fein/).
 
-**In order:** music ([The Luke Walton Band](https://en.wikipedia.org/wiki/The_Luke_Walton_Band), [FEiN](https://lukefwalton.com/music/fein/), [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/)) → music industry ([NAMM](https://lukefwalton.com/music/#music-industry), 2018–2024) → tech ([Surmado](https://www.surmado.com), [answer engine](https://github.com/lukefwalton/answer-engine)). [More →](https://lukefwalton.com/about/)
+**In order:** music ([The Luke Walton Band](https://en.wikipedia.org/wiki/The_Luke_Walton_Band), [FEiN](https://lukefwalton.com/music/fein/), [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/)) → music industry ([NAMM](https://lukefwalton.com/music/#music-industry), 2018–2024) → tech ([Surmado](https://www.surmado.com), [answer engine](https://github.com/lukefwalton/answer-engine)). Common thread the whole way: music and small business. [More →](https://lukefwalton.com/about/)
 
 My public repos are working projects and teaching artifacts:
 

@@ -14,9 +14,9 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 - [a-new-word-every-day](https://github.com/lukefwalton/a-new-word-every-day) - learning new words should be free, beautiful, and private. My wife asked for this. MIT.
 
-- [workout-logger](https://github.com/lukefwalton/workout-logger) — an on-device iOS workout tracker using a local LLM. Source published for audit. [App Store](https://apps.apple.com/us/app/private-workout-logger/id6782669888)
-
 - [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267)
+
+- [workout-logger](https://github.com/lukefwalton/workout-logger) — an on-device iOS workout tracker using a local LLM. Source published for audit. Rights reserved. [App Store](https://apps.apple.com/us/app/private-workout-logger/id6782669888)
 
 ### Archival Work
 

@@ -33,6 +33,6 @@ Musician as [Scoobert Doobert](https://lukefwalton.com/music/scoobert-doobert/) 
 
 ## Elsewhere
 
-[Papers](https://lukefwalton.com/research/) · [Writing](https://lukefwalton.com/writing/) · [Music](https://lukefwalton.com/music/) · [Rendered archive](https://lukefwalton.github.io/lukefwalton.com-archive/) · [PhilPeople](https://philpeople.org/profiles/luke-f-walton) · [ORCID](https://orcid.org/0009-0005-9263-1954)
+[Papers](https://lukefwalton.com/research/) · [Writing](https://lukefwalton.com/writing/) · [Music](https://lukefwalton.com/music/) · [Rendered archive](https://lukefwalton.github.io/lukefwalton.com-archive/) · [PhilPeople](https://philpeople.org/profiles/luke-f-walton) · [ORCID](https://orcid.org/0009-0005-9263-1954) · [WikiData](https://www.wikidata.org/wiki/Q140387739)
 
 Profile photo taken at the end of the Golden Trail, after summiting Mount Kurodake in [Daisetsuzan National Park](https://en.wikipedia.org/wiki/Daisetsuzan_National_Park).

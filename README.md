@@ -18,7 +18,7 @@ Founder of [Surmado](https://www.surmado.com). [AI-ethics researcher](https://lu
 
 - [workout-logger](https://github.com/lukefwalton/workout-logger) — an on-device iOS workout tracker using a local LLM. Source published for audit. Rights reserved. [App Store](https://apps.apple.com/us/app/private-workout-logger/id6782669888)
 
-### Archival Work
+### Archival
 
 - [lukefwalton.com-archive](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, and music catalog. [DOI](https://doi.org/10.5281/zenodo.20683155)
 

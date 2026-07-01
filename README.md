@@ -2,7 +2,7 @@
 
 Hi! I'm [Luke F. Walton](https://lukefwalton.com/), founder of [Surmado](https://www.surmado.com). 
 
-I'm also an [AI-ethics researcher](https://lukefwalton.com/research/) focused on answerability, musician as [Scoobert Doobert](https://www.scoobertdoobert.pizza) and of [FEiN](https://lukefwalton.com/music/fein/), and podcaster at [Love Music More](https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h?si=21883383caec42a6).
+I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on answerability, musician as [Scoobert Doobert](https://www.scoobertdoobert.pizza) and of [FEiN](https://lukefwalton.com/music/fein/), and podcaster at [Love Music More](https://open.spotify.com/show/60DA9vSxpalAojp3Zp2T8h?si=21883383caec42a6).
 
 ## Current work
 

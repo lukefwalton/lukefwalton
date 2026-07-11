@@ -10,6 +10,10 @@ I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on an
 
 - [answer-engine](https://github.com/lukefwalton/answer-engine) — an LLM-backed answer engine that cites its sources or declines plainly. Apache 2.0. [DOI](https://doi.org/10.5281/zenodo.20676773)
 
+### Fun Repo
+
+- [scoobertdoobert.pizza](https://github.com/lukefwalton/scoobertdoobert.pizza) — my solo project's fake Pizza Shop / website circa 1996 (with a WebGL video game in the basement). Rights reserved. [Live Site](https://www.scoobertdoobert.pizza)
+
 ### Privacy-First iOS Apps
 
 - [a-new-word-every-day](https://github.com/lukefwalton/a-new-word-every-day) - learning new English or Japanese words should be free, beautiful, and private. MIT. [App Store](https://apps.apple.com/us/app/a-new-word-every-day/id6785838096)

@@ -6,6 +6,10 @@ I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on an
 
 ## Current work
 
+### Surmado
+
+- Building systems to support small business, namely SEO and AEO websites.
+
 ### Teaching Repo
 
 - [answer-engine](https://github.com/lukefwalton/answer-engine) — an LLM-backed answer engine that cites its sources or declines plainly. Apache 2.0. [DOI](https://doi.org/10.5281/zenodo.20676773)

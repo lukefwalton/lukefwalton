@@ -43,4 +43,8 @@ I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on an
 
 [Papers](https://lukefwalton.com/research/) · [Writing](https://lukefwalton.com/writing/) · [Music](https://lukefwalton.com/music/) · [Rendered archive](https://lukefwalton.github.io/lukefwalton.com-archive/) · [PhilPeople](https://philpeople.org/profiles/luke-f-walton) · [ORCID](https://orcid.org/0009-0005-9263-1954) · [WikiData](https://www.wikidata.org/wiki/Q140387739)
 
+## Use of AI
+
+Most of the code was written with AI assistance, and on several repos a model is the author of record on most commits. I set what each project is for and what its output must meet with spec-based development, verify the outputs against tests rather than the model's confidence, and answer for what ships.
+
 Profile photo taken at the end of the Golden Trail, after summiting Mount Kurodake in [Daisetsuzan National Park](https://en.wikipedia.org/wiki/Daisetsuzan_National_Park).

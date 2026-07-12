@@ -31,7 +31,7 @@ I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on an
 ### [Answerability Quartet](https://lukefwalton.com/research/): four papers on who answers when an AI acts.
 
 - “The Decision No One Authored: The Answerability Gap in Generative AI” — preprint: [DOI](https://zenodo.org/records/21123902)
-- “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” — preprint: [DOI](https://doi.org/10.5281/zenodo.20676328)
+- “The Captured Oracle: Authorship and Agency in the Ethics of Answer-Engine Optimization” — preprint: [DOI](https://zenodo.org/records/21123835)
 - “The Invariant of Answerability” — working paper: [DOI](https://doi.org/10.5281/zenodo.20606493)
 - “Building Answerable AI” — working paper: [DOI](https://doi.org/10.5281/zenodo.20682307)
 

@@ -8,7 +8,7 @@ I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on an
 
 ### Surmado
 
-- Building systems to support small business, namely SEO and AEO websites.
+- Building systems to support small business, namely SEO and AEO [websites](https://www.surmado.com/sites).
 
 ### Teaching Repo
 

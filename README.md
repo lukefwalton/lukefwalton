@@ -24,8 +24,6 @@ I'm also an [ethics researcher](https://lukefwalton.com/research/) focused on an
 
 - [stop-political-texts](https://github.com/lukefwalton/stop-political-texts) - I hate spam texts! My attempt to fight back against the noise. MIT. [App Store](https://apps.apple.com/us/app/stop-political-spam-texts/id6782703267)
 
-- [workout-logger](https://github.com/lukefwalton/workout-logger) — an on-device iOS workout tracker using a local LLM. Source published for audit. Rights reserved. [App Store](https://apps.apple.com/us/app/private-workout-logger/id6782669888)
-
 ### Archival
 
 - [lukefwalton.com-archive](https://github.com/lukefwalton/lukefwalton.com-archive) — a durable, dependency-free source archive of my writing, papers, and music catalog. [DOI](https://doi.org/10.5281/zenodo.20683155)
